@@ -1,0 +1,1 @@
+select emp ename esal add from emp where emp in p_emp
